@@ -1,1 +1,1 @@
-# Automatic-Fire-Extinguisher-
+Fire is one of the most destructive hazards that can occur in homes, offices, or industries. In many cases, delay in human response leads to severe damage and loss. To overcome this, an automatic fire detection and extinguishing system can help respond immediately.Our project presents a prototype model that can detect fire using a flame sensor and automatically spray water using a servo-controlled sprayer, all managed by an Arduino Nano microcontroller. The system is low-cost, efficient, and can operate independently without human supervision.
